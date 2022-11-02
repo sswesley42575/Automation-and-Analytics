@@ -1,1 +1,13 @@
+$ git add --all
+$ git status
+# On branch main
+#Changes to be committed
+#
+# new file: "D:\Move UPC from transient to bronze.ipynb"
+# new file: "D:\Move Nationwide from transient to bronze.ipynb"
+# new file: "D:\Move Nationwide from bronze to silver.ipynb"
+# new file: "D:\Move UPC from bronze to silver.ipynb"
+# new file: "D:\createUPCSilverView.sql"
+# new file: "D:\createNationwideSilverView.sql"
+# new file: "D:\createDateTable.sql"
 
