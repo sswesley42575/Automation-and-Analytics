@@ -1,1 +1,18 @@
+###Integration Testing
+####Power Automate
+1.Open my flows in Power Automate
+2.Open the appropriate flow
+3.Look in the 28 day flow history
+4.Find the flow that was just run
+5.Open the succesful flow run
+6.Navigate to the output of that flow
+7.Verify that the output is correct
+####Azure Data Lake
+1.Open file service folder within storage account within Azure Storage Explorer.
+2.Open Azure Synapse workpace at Azure Portal
+3.Run folder code that corresponds to the folder transition.
+#####Example to test code from "transient folder to bronze"
+#####1.Run text code in each cell within folder from begging to end.
+#####2.Look at the folder (transient in this case" to verify data has moved.
+####Power Bi(will be determined once data lake is connected to interface)
 
